@@ -164,7 +164,7 @@ cython_debug/
 # ---- Node / React ----
 
 # Dependencies
-node_modules/
+**/node_modules/
 *.log
 
 # Build outputs
